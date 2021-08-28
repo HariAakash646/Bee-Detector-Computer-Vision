@@ -11,4 +11,7 @@ Input an image of a bee and the model outputs the image with bounding boxes
 
 ## Other Information
 The model works for unseen data very well even though it has been trained on a small dataset of just 25 examples. The model fails to work iin a few cases.
+
 ![Failure Image](https://github.com/HariAakash646/Bee-Detector-Computer-Vision/blob/main/Images/bee-testfailure.jpg)
+
+Here the bee seems to be different from the ones in the dataset and another reason might be that the bee seems to camoflague with the flower.
