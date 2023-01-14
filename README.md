@@ -10,7 +10,7 @@ Input an image of a bee and the model outputs the image with bounding boxes
 | ![Real Image 4](https://github.com/HariAakash646/Bee-Detector-Computer-Vision/blob/main/Images/bee-test4.jpg)  | ![Processed Image 4](https://github.com/HariAakash646/Bee-Detector-Computer-Vision/blob/main/Images/bee4.jpeg)  |
 
 ## Other Information
-The model works for unseen data very well even though it has been trained on a small dataset of just 25 examples. The model fails to work iin a few cases.
+The model works for unseen data very well even though it has been trained on a small dataset of just 25 examples. The model fails to work in a few cases.
 
 ![Failure Image](https://github.com/HariAakash646/Bee-Detector-Computer-Vision/blob/main/Images/bee-testfailure.jpg)
 
